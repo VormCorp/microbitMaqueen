@@ -15,7 +15,11 @@ Students write real MicroPython on physical hardware from lesson one. There are 
 Australia Distributor
 <a href="https://core-electronics.com.au/micro-maqueen-micro-bit-robot-platform.html?gad_source=1&gad_campaignid=17417005429&gbraid=0AAAAADlEpP45QvuQZWq2yxY5j2sehYEll&gclid=CjwKCAjwuO_QBhAWEiwAIkVhU7kCty4eQHZk9hJhplzDyL3FUJUTjGv2qyWVu2W6CG_DPfoOitUWexoCqs0QAvD_BwE" target="_blank" rel="noopener noreferrer">Maqueen Lite (I'm not paid by them)</a>
 
-
+<p align="center">
+  <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Help_fund_this_with_$5_donation-FFD140?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal Donation Button">
+  </a>
+</p>
 ---
 
 ## Deployment
