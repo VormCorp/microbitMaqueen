@@ -10,6 +10,12 @@ This unit teaches autonomous robot navigation through nine lessons, building tow
 
 Students write real MicroPython on physical hardware from lesson one. There are no simulations, no block editors, and no scaffolding beyond the base code template. The course assumes students can read Python and have basic "code sense" — variable assignment, calling functions, reading error messages.
 
+<a href="https://www.dfrobot.com/product-1783.html" target="_blank" rel="noopener noreferrer">Maqueen Lite - micro:bit Educational Programming Robot Platform</a>
+
+Australia Distributor
+<a href="https://core-electronics.com.au/micro-maqueen-micro-bit-robot-platform.html?gad_source=1&gad_campaignid=17417005429&gbraid=0AAAAADlEpP45QvuQZWq2yxY5j2sehYEll&gclid=CjwKCAjwuO_QBhAWEiwAIkVhU7kCty4eQHZk9hJhplzDyL3FUJUTjGv2qyWVu2W6CG_DPfoOitUWexoCqs0QAvD_BwE>target="_blank" rel="noopener noreferrer">Maqueen Lite (I'm not paid by them)
+
+
 ---
 
 ## Deployment
